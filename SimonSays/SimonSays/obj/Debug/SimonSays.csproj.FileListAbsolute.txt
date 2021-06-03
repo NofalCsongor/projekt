@@ -1,0 +1,30 @@
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays.csprojAssemblyReference.cache
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\MainWindow.g.cs
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\App.g.cs
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays_MarkupCompile.cache
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays_MarkupCompile.lref
+d:\Aktuális\SimonSays\SimonSays\bin\Debug\SimonSays.exe.config
+d:\Aktuális\SimonSays\SimonSays\bin\Debug\SimonSays.exe
+d:\Aktuális\SimonSays\SimonSays\bin\Debug\SimonSays.pdb
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\MainWindow.baml
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays.g.resources
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays.Properties.Resources.resources
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays.csproj.GenerateResource.cache
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays.csproj.CoreCompileInputs.cache
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays.exe
+d:\Aktuális\SimonSays\SimonSays\obj\Debug\SimonSays.pdb
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\bin\Debug\SimonSays.exe.config
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\bin\Debug\SimonSays.exe
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\bin\Debug\SimonSays.pdb
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays.csprojAssemblyReference.cache
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\MainWindow.g.cs
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\App.g.cs
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays_MarkupCompile.cache
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays_MarkupCompile.lref
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\MainWindow.baml
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays.g.resources
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays.Properties.Resources.resources
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays.csproj.GenerateResource.cache
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays.csproj.CoreCompileInputs.cache
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays.exe
+C:\PROJEKT2\2020-09-18 11C osztály - Simon Says\Megoldás\SimonSays\SimonSays\obj\Debug\SimonSays.pdb
